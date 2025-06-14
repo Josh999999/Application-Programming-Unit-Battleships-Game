@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Battleships</string>
+
+    <string name="pop_up_homeText">Home</string>
+    <string name="pop_up_text">Player %s wins!!!</string>
+    <string name="hard_mode">Hard Mode</string>
+    <string name="easy_mode">Easy Mode</string>
+    <string name="homePageWelcomeText">Welcome to BattleShips</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
